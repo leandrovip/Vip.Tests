@@ -1,10 +1,10 @@
-# Introdução
-Repositório do software VipERP
+## Vip.Tests
 
-# Início
-1.	Processo de instalação
-2.	Dependências
-3.	Últimas versões
-4.	Referências
+Biblioteca com classes auxiliares para execução de testes unitários.
 
-Para mais informações acesse o [site](https://www.vipsolucoes.com).
+## Pré requisitos
+
+- .Net Standard 2.0
+
+# Licença
+MIT
