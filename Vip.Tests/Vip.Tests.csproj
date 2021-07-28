@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Leandro Ferreira</Authors>
+    <Company>VIP Soluções</Company>
+    <Description>Boilerplate helpers to execute unit tests</Description>
+    <RepositoryUrl>https://github.com/leandrovip/Vip.Tests</RepositoryUrl>
+    <PackageTags>vip,tests, boilerplate</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="33.0.2" />
+  </ItemGroup>
+
+</Project>
