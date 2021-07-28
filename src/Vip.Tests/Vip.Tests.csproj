@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Leandro Ferreira</Authors>
     <Company>VIP Soluções</Company>
-    <Description>Boilerplate helpers to execute unit tests</Description>
+    <Description>Biblioteca com classes auxiliares para execução de testes unitários</Description>
     <RepositoryUrl>https://github.com/leandrovip/Vip.Tests</RepositoryUrl>
     <PackageTags>vip,tests, boilerplate</PackageTags>
   </PropertyGroup>
