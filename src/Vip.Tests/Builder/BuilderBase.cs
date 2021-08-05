@@ -6,7 +6,7 @@ namespace Vip.Tests.Builder
     {
         #region Propriedades
 
-        protected readonly Faker _faker;
+        protected readonly Faker faker;
 
         #endregion
 
@@ -14,7 +14,7 @@ namespace Vip.Tests.Builder
 
         protected BuilderBase()
         {
-            _faker = new Faker("pt_BR");
+            faker = new Faker("pt_BR");
         }
 
         #endregion
